@@ -2,11 +2,9 @@ Olá, eu sou Antonia Jamily Epifanio da Silva 👋
 
 💻 Desenvolvedora Full Stack em Formação.
 
-Sou uma profissional em transição para a área de Tecnologia, apaixonada por desenvolvimento de software e aprendizado contínuo.
+Sou uma profissional em transição para a área de Tecnologia, com foco em desenvolvimento de software e aprendizado contínuo.
 
-Atualmente estou focada no desenvolvimento Back-end utilizando Java e Spring Boot, construindo projetos para fortalecer minhas habilidades técnicas e criar soluções eficientes.
-
-Além da experiência em tecnologia, desenvolvi competências importantes em liderança, gestão de equipes, organização de processos e atendimento ao cliente, habilidades que agregam valor ao meu trabalho como desenvolvedora.
+Além da experiência em tecnologia, desenvolvi competências importantes em liderança, gestão de equipes e atendimento ao cliente, habilidades que agregam valor ao meu trabalho como desenvolvedora.
 
 
 📚 Formação:
