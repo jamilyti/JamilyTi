@@ -33,7 +33,7 @@ Testes Unitários (Jest)
 
 🚀 Projetos em Destaque
 
-☕ Sistema de Cadastro de Usuários
+☕ Sistema de Cadastro de Produtos
 Aplicação desenvolvida em Java com foco em operações CRUD (Criar, Ler, Atualizar e Excluir), aplicando conceitos de orientação a objetos e boas práticas de programação.
 
 Tecnologias:
